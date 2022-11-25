@@ -1,0 +1,34 @@
+C:\Documents\Education\John_Abbott_College\Winter_2022\Application_Development_I\TicTacToeGame\TicTacToeGame\bin\Debug\netcoreapp3.1\TicTacToeGame.exe
+C:\Documents\Education\John_Abbott_College\Winter_2022\Application_Development_I\TicTacToeGame\TicTacToeGame\bin\Debug\netcoreapp3.1\TicTacToeGame.deps.json
+C:\Documents\Education\John_Abbott_College\Winter_2022\Application_Development_I\TicTacToeGame\TicTacToeGame\bin\Debug\netcoreapp3.1\TicTacToeGame.runtimeconfig.json
+C:\Documents\Education\John_Abbott_College\Winter_2022\Application_Development_I\TicTacToeGame\TicTacToeGame\bin\Debug\netcoreapp3.1\TicTacToeGame.runtimeconfig.dev.json
+C:\Documents\Education\John_Abbott_College\Winter_2022\Application_Development_I\TicTacToeGame\TicTacToeGame\bin\Debug\netcoreapp3.1\TicTacToeGame.dll
+C:\Documents\Education\John_Abbott_College\Winter_2022\Application_Development_I\TicTacToeGame\TicTacToeGame\bin\Debug\netcoreapp3.1\TicTacToeGame.pdb
+C:\Documents\Education\John_Abbott_College\Winter_2022\Application_Development_I\TicTacToeGame\TicTacToeGame\bin\Debug\netcoreapp3.1\TicTacToe.dll
+C:\Documents\Education\John_Abbott_College\Winter_2022\Application_Development_I\TicTacToeGame\TicTacToeGame\bin\Debug\netcoreapp3.1\TicTacToe.xml
+C:\Documents\Education\John_Abbott_College\Winter_2022\Application_Development_I\TicTacToeGame\TicTacToeGame\obj\Debug\netcoreapp3.1\TicTacToeGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Documents\Education\John_Abbott_College\Winter_2022\Application_Development_I\TicTacToeGame\TicTacToeGame\obj\Debug\netcoreapp3.1\TicTacToeGame.AssemblyInfoInputs.cache
+C:\Documents\Education\John_Abbott_College\Winter_2022\Application_Development_I\TicTacToeGame\TicTacToeGame\obj\Debug\netcoreapp3.1\TicTacToeGame.AssemblyInfo.cs
+C:\Documents\Education\John_Abbott_College\Winter_2022\Application_Development_I\TicTacToeGame\TicTacToeGame\obj\Debug\netcoreapp3.1\TicTacToeGame.csproj.CoreCompileInputs.cache
+C:\Documents\Education\John_Abbott_College\Winter_2022\Application_Development_I\TicTacToeGame\TicTacToeGame\obj\Debug\netcoreapp3.1\TicTacToeGame.csproj.CopyComplete
+C:\Documents\Education\John_Abbott_College\Winter_2022\Application_Development_I\TicTacToeGame\TicTacToeGame\obj\Debug\netcoreapp3.1\TicTacToeGame.dll
+C:\Documents\Education\John_Abbott_College\Winter_2022\Application_Development_I\TicTacToeGame\TicTacToeGame\obj\Debug\netcoreapp3.1\TicTacToeGame.pdb
+C:\Documents\Education\John_Abbott_College\Winter_2022\Application_Development_I\TicTacToeGame\TicTacToeGame\obj\Debug\netcoreapp3.1\TicTacToeGame.genruntimeconfig.cache
+C:\Documents\Education\John_Abbott_College\Winter_2022\Application_Development_I\TicTacToeGame\TicTacToeGame\obj\Debug\netcoreapp3.1\TicTacToeGame.csproj.AssemblyReference.cache
+C:\Documents\Education\John_Abbott_College\Winter_2022\Application_Development_I\TicTacToeGame (C#)\TicTacToeGame\bin\Debug\netcoreapp3.1\TicTacToeGame.exe
+C:\Documents\Education\John_Abbott_College\Winter_2022\Application_Development_I\TicTacToeGame (C#)\TicTacToeGame\bin\Debug\netcoreapp3.1\TicTacToeGame.deps.json
+C:\Documents\Education\John_Abbott_College\Winter_2022\Application_Development_I\TicTacToeGame (C#)\TicTacToeGame\bin\Debug\netcoreapp3.1\TicTacToeGame.runtimeconfig.json
+C:\Documents\Education\John_Abbott_College\Winter_2022\Application_Development_I\TicTacToeGame (C#)\TicTacToeGame\bin\Debug\netcoreapp3.1\TicTacToeGame.runtimeconfig.dev.json
+C:\Documents\Education\John_Abbott_College\Winter_2022\Application_Development_I\TicTacToeGame (C#)\TicTacToeGame\bin\Debug\netcoreapp3.1\TicTacToeGame.dll
+C:\Documents\Education\John_Abbott_College\Winter_2022\Application_Development_I\TicTacToeGame (C#)\TicTacToeGame\bin\Debug\netcoreapp3.1\TicTacToeGame.pdb
+C:\Documents\Education\John_Abbott_College\Winter_2022\Application_Development_I\TicTacToeGame (C#)\TicTacToeGame\bin\Debug\netcoreapp3.1\TicTacToe.dll
+C:\Documents\Education\John_Abbott_College\Winter_2022\Application_Development_I\TicTacToeGame (C#)\TicTacToeGame\bin\Debug\netcoreapp3.1\TicTacToe.xml
+C:\Documents\Education\John_Abbott_College\Winter_2022\Application_Development_I\TicTacToeGame (C#)\TicTacToeGame\obj\Debug\netcoreapp3.1\TicTacToeGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Documents\Education\John_Abbott_College\Winter_2022\Application_Development_I\TicTacToeGame (C#)\TicTacToeGame\obj\Debug\netcoreapp3.1\TicTacToeGame.AssemblyInfoInputs.cache
+C:\Documents\Education\John_Abbott_College\Winter_2022\Application_Development_I\TicTacToeGame (C#)\TicTacToeGame\obj\Debug\netcoreapp3.1\TicTacToeGame.AssemblyInfo.cs
+C:\Documents\Education\John_Abbott_College\Winter_2022\Application_Development_I\TicTacToeGame (C#)\TicTacToeGame\obj\Debug\netcoreapp3.1\TicTacToeGame.csproj.CoreCompileInputs.cache
+C:\Documents\Education\John_Abbott_College\Winter_2022\Application_Development_I\TicTacToeGame (C#)\TicTacToeGame\obj\Debug\netcoreapp3.1\TicTacToeGame.csproj.CopyComplete
+C:\Documents\Education\John_Abbott_College\Winter_2022\Application_Development_I\TicTacToeGame (C#)\TicTacToeGame\obj\Debug\netcoreapp3.1\TicTacToeGame.dll
+C:\Documents\Education\John_Abbott_College\Winter_2022\Application_Development_I\TicTacToeGame (C#)\TicTacToeGame\obj\Debug\netcoreapp3.1\TicTacToeGame.pdb
+C:\Documents\Education\John_Abbott_College\Winter_2022\Application_Development_I\TicTacToeGame (C#)\TicTacToeGame\obj\Debug\netcoreapp3.1\TicTacToeGame.genruntimeconfig.cache
+C:\Documents\Education\John_Abbott_College\winter_2022\Application_Development_I\TicTacToeGame (C#)\TicTacToeGame\obj\Debug\netcoreapp3.1\TicTacToeGame.csproj.AssemblyReference.cache
